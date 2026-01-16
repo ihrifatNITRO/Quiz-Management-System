@@ -132,7 +132,7 @@ A recorded video demonstration is included in this repository showing:
 - Student login and quiz participation
 - Final score and result display
 
-Video Link: (Add your Google Drive or YouTube link here)
+Video Link: https://drive.google.com/file/d/1FQlOLDq7wsRXfgK0O-rT1uxFoVDyDX_m/view?usp=sharing
 
 ---
 
