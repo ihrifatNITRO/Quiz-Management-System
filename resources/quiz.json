@@ -1,4 +1,162 @@
 [
-  {"question":"Which is not part of system testing?","option1":"Regression Testing","option2":"Sanity Testing","option3":"Load Testing","option4":"Unit Testing","answerkey":4},
-  {"question":"Why do we need smoke testing?","option1":"To check the priority-based main features","option2":"To check all the features","option3":"To check features integration done right","option4":"To have fun :)","answerkey":1}
+  {
+    "question": "Which testing is performed to verify individual modules?",
+    "option1": "System Testing",
+    "option2": "Integration Testing",
+    "option3": "Unit Testing",
+    "option4": "Acceptance Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "Which is NOT a level of software testing?",
+    "option1": "Unit Testing",
+    "option2": "Integration Testing",
+    "option3": "System Testing",
+    "option4": "Coding Testing",
+    "answerkey": 4
+  },
+  {
+    "question": "What is the main objective of system testing?",
+    "option1": "Test individual units",
+    "option2": "Test integrated modules",
+    "option3": "Validate the complete system",
+    "option4": "Fix bugs",
+    "answerkey": 3
+  },
+  {
+    "question": "Which testing ensures the software meets user requirements?",
+    "option1": "Unit Testing",
+    "option2": "System Testing",
+    "option3": "Integration Testing",
+    "option4": "Acceptance Testing",
+    "answerkey": 4
+  },
+  {
+    "question": "Regression testing is performed to ensure that:",
+    "option1": "New code works correctly",
+    "option2": "Old bugs are removed",
+    "option3": "Existing functionality is unaffected",
+    "option4": "System performance is improved",
+    "answerkey": 3
+  },
+  {
+    "question": "Which testing type focuses on system performance?",
+    "option1": "Functional Testing",
+    "option2": "Load Testing",
+    "option3": "Unit Testing",
+    "option4": "Smoke Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Smoke testing is also known as:",
+    "option1": "Build Verification Testing",
+    "option2": "Regression Testing",
+    "option3": "Stress Testing",
+    "option4": "White Box Testing",
+    "answerkey": 1
+  },
+  {
+    "question": "Black box testing focuses on:",
+    "option1": "Internal code structure",
+    "option2": "Program logic",
+    "option3": "Functional behavior",
+    "option4": "Memory usage",
+    "answerkey": 3
+  },
+  {
+    "question": "Which testing is done without knowledge of internal code?",
+    "option1": "White Box Testing",
+    "option2": "Black Box Testing",
+    "option3": "Unit Testing",
+    "option4": "Integration Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "White box testing is also called:",
+    "option1": "Behavioral Testing",
+    "option2": "Functional Testing",
+    "option3": "Structural Testing",
+    "option4": "System Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "Which testing is performed first?",
+    "option1": "System Testing",
+    "option2": "Acceptance Testing",
+    "option3": "Integration Testing",
+    "option4": "Unit Testing",
+    "answerkey": 4
+  },
+  {
+    "question": "Which document describes test cases?",
+    "option1": "SRS",
+    "option2": "Test Plan",
+    "option3": "Test Case Specification",
+    "option4": "Design Document",
+    "answerkey": 3
+  },
+  {
+    "question": "What does SQA stand for?",
+    "option1": "Software Quality Analysis",
+    "option2": "System Quality Assurance",
+    "option3": "Software Quality Assurance",
+    "option4": "Software Question Analysis",
+    "answerkey": 3
+  },
+  {
+    "question": "Which testing checks system behavior under extreme load?",
+    "option1": "Load Testing",
+    "option2": "Stress Testing",
+    "option3": "Smoke Testing",
+    "option4": "Regression Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Which phase focuses on finding defects?",
+    "option1": "Development",
+    "option2": "Testing",
+    "option3": "Deployment",
+    "option4": "Maintenance",
+    "answerkey": 2
+  },
+  {
+    "question": "Acceptance testing is usually performed by:",
+    "option1": "Developers",
+    "option2": "Testers",
+    "option3": "End users",
+    "option4": "Project managers",
+    "answerkey": 3
+  },
+  {
+    "question": "Which testing ensures compatibility across environments?",
+    "option1": "Performance Testing",
+    "option2": "Compatibility Testing",
+    "option3": "Regression Testing",
+    "option4": "Unit Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing verifies software installation?",
+    "option1": "Installation Testing",
+    "option2": "System Testing",
+    "option3": "Integration Testing",
+    "option4": "Unit Testing",
+    "answerkey": 1
+  },
+  {
+    "question": "Which testing checks usability?",
+    "option1": "Functional Testing",
+    "option2": "Usability Testing",
+    "option3": "Load Testing",
+    "option4": "Smoke Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Test cases are derived from:",
+    "option1": "Code",
+    "option2": "Test plan",
+    "option3": "SRS",
+    "option4": "Design document",
+    "answerkey": 3
+  }
 ]
