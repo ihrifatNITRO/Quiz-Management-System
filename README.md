@@ -1,7 +1,4 @@
-# Quiz Management System (Java)
-
-Batch No: 17  
-Topic Name: Java Project
+# Quiz Management System 
 
 ---
 
@@ -148,10 +145,4 @@ The following folders are excluded using `.gitignore`:
 - gradle
 
 ---
-
-## Author
-
-Name: Your Name  
-Batch: 17  
-Project: Quiz Management System (Java)
 
