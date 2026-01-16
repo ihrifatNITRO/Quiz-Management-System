@@ -1,0 +1,4 @@
+[
+  {"question":"Which is not part of system testing?","option1":"Regression Testing","option2":"Sanity Testing","option3":"Load Testing","option4":"Unit Testing","answerkey":4},
+  {"question":"Why do we need smoke testing?","option1":"To check the priority-based main features","option2":"To check all the features","option3":"To check features integration done right","option4":"To have fun :)","answerkey":1}
+]
